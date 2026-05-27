@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'MedLearn Pro - Formation Médicale Continue',
-  description: 'Plateforme de formation médicale professionnelle avec cours vidéo, modules interactifs et certifications.',
+  title: 'Formation Médicale - Cours en ligne',
+  description: 'Plateforme de formation médicale avec des modules vidéo simples, structurés et accessibles.',
   generator: 'v0.app',
   icons: {
     icon: [
