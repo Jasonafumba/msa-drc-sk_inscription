@@ -1,31 +1,31 @@
 const modules = [
   {
     id: 1,
-    title: "Module 1 : Introduction",
+    title: "Module 1 : INTRODUCTION",
     description:
-      "Découvrez les bases de la médecine et les fondamentaux de la pratique clinique.",
-    videoId: "dQw4w9WgXcQ",
+      "",
+    videoId: "BDgwq5KCJT4",
   },
   {
     id: 2,
-    title: "Module 2 : Cardiologie",
+    title: "Module 2 : COMPRENDRE LE CONTEXTE",
     description:
-      "Apprenez l'anatomie cardiaque, les pathologies cardiovasculaires et leur prise en charge.",
-    videoId: "dQw4w9WgXcQ",
+      "",
+    videoId: "-WiIXUUi0d4",
   },
   {
     id: 3,
-    title: "Module 3 : Pneumologie",
+    title: "Module 3 : DE LA MSA-DRC à L'IFMSA",
     description:
-      "Explorez les maladies respiratoires, l'auscultation pulmonaire et les traitements.",
-    videoId: "dQw4w9WgXcQ",
+      ".",
+    videoId: "xYgiLQg9kWs",
   },
   {
     id: 4,
-    title: "Module 4 : Pédiatrie",
+    title: "Module 4 : COMPRENDRE LE SYSTEME ET NOUS REJOINDRE",
     description:
-      "Comprenez les spécificités de la médecine pédiatrique et le suivi de l'enfant.",
-    videoId: "dQw4w9WgXcQ",
+      "",
+    videoId: "lJ3G06c_CJY",
   },
 ]
 
@@ -35,10 +35,10 @@ export function Modules() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl sm:text-4xl font-bold text-foreground">
-            Modules de formation
+            Modules de Présentation
           </h2>
           <p className="mt-4 text-muted-foreground max-w-xl mx-auto">
-            Parcourez nos modules vidéo pour apprendre à votre rythme.
+            Parcourez les vidéos ci-dessous pour en savoir davantage sur nous avant de vous inscrire.
           </p>
         </div>
 

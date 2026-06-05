@@ -9,13 +9,14 @@ export function Inscription() {
           Rejoins-nous maintenant
         </h2>
         <p className="mt-4 text-muted-foreground max-w-xl mx-auto">
-          Inscris-toi gratuitement pour accéder à tous nos modules de formation
-          médicale.
+          Cliquez sur le bouton ci-dessous pour vous inscrire.
+          <br /> 
+          Nous avons hâte de vous accueillir parmi nous !
         </p>
         <div className="mt-8">
           <Button asChild size="lg" className="px-8 py-6 text-base">
             <a
-              href="https://forms.google.com"
+              href="https://url-shortener.me/MSMB"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2"

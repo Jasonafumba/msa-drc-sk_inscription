@@ -9,11 +9,10 @@ export function Hero() {
     >
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight text-balance">
-          Formation médicale en ligne
+          DEVENEZ MEMBRE DE LA MSA-DRC
         </h1>
         <p className="mt-6 text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto text-pretty">
-          Apprenez la médecine avec des modules vidéo simples, structurés et
-          accessibles.
+          Rejoignez notre communauté d'étudiants en médecine engagés à améliorer la santé globale en RDC et au niveau international. 
         </p>
         <div className="mt-10">
           <Button asChild size="lg" className="px-8 py-6 text-base">

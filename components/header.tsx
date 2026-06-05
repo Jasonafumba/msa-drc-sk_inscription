@@ -20,10 +20,10 @@ export function Header() {
           {/* Logo */}
           <a href="#accueil" className="flex items-center gap-2">
             <div className="w-9 h-9 rounded-lg bg-primary flex items-center justify-center">
-              <GraduationCap className="w-5 h-5 text-primary-foreground" />
+              <img src="/logo_MSA copie.png" alt="Logo" className="h-9 w-10" />
             </div>
             <span className="font-semibold text-lg text-foreground">
-              Formation Médicale
+              MSA-DRC SUD KIVU
             </span>
           </a>
 

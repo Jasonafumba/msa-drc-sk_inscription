@@ -18,7 +18,7 @@ export function Footer() {
               <GraduationCap className="w-4 h-4 text-primary-foreground" />
             </div>
             <span className="font-semibold text-foreground">
-              Formation Médicale
+              MSA-DRC Sud Kivu
             </span>
           </a>
 
@@ -38,7 +38,7 @@ export function Footer() {
 
         <div className="mt-8 pt-6 border-t border-border text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Formation Médicale. Tous droits
+            © {new Date().getFullYear()} MSA-DRC Sud Kivu. Tous droits
             réservés.
           </p>
         </div>

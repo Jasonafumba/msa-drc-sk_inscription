@@ -22,13 +22,13 @@ export function Contact() {
             <div className="text-left">
               <p className="text-xs text-muted-foreground">Email</p>
               <p className="text-sm font-medium text-foreground">
-                contact@formation-medicale.com
+                msa.drc.sk@gmail.com
               </p>
             </div>
           </a>
 
           <a
-            href="https://wa.me/33600000000"
+            href="https://wa.me/+243973742977"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 px-6 py-4 bg-card rounded-xl border border-border hover:border-primary/50 transition-colors"
@@ -39,7 +39,7 @@ export function Contact() {
             <div className="text-left">
               <p className="text-xs text-muted-foreground">WhatsApp</p>
               <p className="text-sm font-medium text-foreground">
-                +33 6 00 00 00 00
+                +243 973 742 977
               </p>
             </div>
           </a>
